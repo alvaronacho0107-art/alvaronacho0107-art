@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy **Alvaro Quiroga**  
 
-<!--
-**alvaronacho0107-art/alvaronacho0107-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante Ingenieria en informatica  
 
-Here are some ideas to get you started:
+me gusta saber como funcionan los programas por dentro  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Lo que hago ahora msimo
+
+- 👜🏫 **Estudiante ingeniera en informatica**: estudio informatica en el instituto santo tomas
+
+## 💼 Experiencia 
+
+-Desarrollo de aplicaciones simples en java y python
+
+-Desarrollo de formularios en c#, javaswing y html 
+
+-Uso de interfaz grafica en c# y java(javaswing)
+
+-Boostrap y css en html
+
+-Diseño y consulta de bases de datos en MYSQL
+
+-.net
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,java,py,dotnet,html,css,cs,mysql)](https://skillicons.dev)
+
+## 💻Sistemas operativos
+-Windows 
+
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+
+-linux(debian)
+
+[![My Skills](https://skillicons.dev/icons?i=debian,linux)](https://skillicons.dev)
+
